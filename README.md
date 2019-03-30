@@ -32,3 +32,13 @@ A list of resources for Visual Question Answering.
 
 [1] Cadene R, Ben-younes H, Cord M, et al. MUREL: Multimodal Relational Reasoning for Visual Question Answering [[paper](https://arxiv.org/abs/1902.09487)] [[code](https://github.com/Cadene/murel.bootstrap.pytorch)]
 
+[2] Peng G, Li H, You H, et al. Dynamic Fusion with Intra-and Inter-Modality Attention Flow for Visual Question Answering [[paper](https://arxiv.org/abs/1812.05252)] [[code](https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch)]
+
+[3] Shah M, Chen X, Rohrbach M, et al. Cycle-Consistency for Robust Visual Question Answering [[paper](https://arxiv.org/pdf/1902.05660.pdf)]
+
+
+
+### Based On [GQA](https://cs.stanford.edu/people/dorarad/gqa/index.html) dataset
+
+
+
