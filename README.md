@@ -200,6 +200,8 @@ Mahendru A, Prabhu V, Mohapatra A, et al. The promise of premise: Harnessing que
 
 [15] Yu Z, Yu J, Cui Y, et al. Deep Modular Co-Attention Networks for Visual Question Answering [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf)] [[code](https://github.com/MILVLG/mcan-vqa)]
 
+[16] Shi J, Zhang H, Li J. Explainable and explicit visual reasoning over scene graphs [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf)] [[code](https://github.com/shijx12/XNM-Net)]
+
 ##### ICLR2019
 
 [1] Zhang Y, Hare J, Prügel-Bennett A. Learning Representations of Sets through Optimized Permutations [[paper](https://arxiv.org/pdf/1812.03928.pdf)] [[code](https://github.com/Cyanogenoid/perm-optim)]
